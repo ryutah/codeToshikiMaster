@@ -1,4 +1,4 @@
-package Janken;
+package janken;
 
 public class JankenFactory {
 

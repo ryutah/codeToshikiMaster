@@ -1,4 +1,4 @@
-package Janken;
+package janken;
 
 
 /**
@@ -17,7 +17,7 @@ public class JudgeBase
     public void startJanken(PlayerBase p1, PlayerBase p2){
 
     	// 開始宣言
-    	System.out.println("【Start Janken】");
+    	System.out.println("【Start janken】");
 
     	//3回勝負
     	int i = 0;
@@ -51,7 +51,7 @@ public class JudgeBase
     	}
 
     	// 終了
-    	System.out.println("【End Janken】");
+    	System.out.println("【End janken】");
 
     }
 

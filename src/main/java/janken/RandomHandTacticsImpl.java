@@ -1,4 +1,4 @@
-package Janken;
+package janken;
 
 public class RandomHandTacticsImpl implements InterfaceTactics{
 
@@ -7,7 +7,7 @@ public class RandomHandTacticsImpl implements InterfaceTactics{
 	}
 
 	/* (非 Javadoc)
-	 * @see Janken.InterfaceTactics#readTactics()
+	 * @see janken.InterfaceTactics#readTactics()
 	 * 戦略を読みジャンケンの手を得る
 	 */
 	public String readTactics(){
